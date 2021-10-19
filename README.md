@@ -1,23 +1,13 @@
 # Intro
 
-## Getting Super Powers
+## One Endpoint. All your tasks.
 
-Becoming a super hero is a fairly straight forward process:
+**With dœcentral `[døːsɛntrəl]` you're able to fetch all your tasks from several task management apps and calendars. Learn more at **[**https://www.dœcentral.com**](https://www.xn--dcentral-ktb.com)**.**
 
-```
-$ give me super-powers
-```
+Get the full picture of your daily tasks and events with just one API call. Your private tasks from Todoist, your customer project tasks from Trello, your company events from Google Calendar or what ever. You name it. Just get all the today tasks combined in one API.
 
-{% hint style="info" %}
-&#x20;Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+This allows you to integrate your today tasks in your favorite application, a rough overview in a simple UI, a detailed list in a daily mail or whatever you can imagine.
 
-Once you're strong enough, save the world:
+> Everything you can imagine is possible. Be creative!
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
+Check all available [connections](group-1/connections.md) and [integrations](group-1/integrations.md).
