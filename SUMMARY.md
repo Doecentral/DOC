@@ -18,7 +18,7 @@
 
 * [⚙ User settings](user/untitled.md)
 
-## Group 1
+## Public
 
-* [🔗 Connections](group-1/connections.md)
-* [📱 Integrations](group-1/integrations.md)
+* [🔗 Connections](public/connections.md)
+* [📱 Integrations](public/integrations.md)
