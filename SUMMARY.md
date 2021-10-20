@@ -7,7 +7,7 @@
 
 ## Authorization <a href="authorization-1" id="authorization-1"></a>
 
-* [Authorization](authorization-1/authorization.md)
+* [🔐 Authorization](authorization-1/authorization.md)
 
 ## Tasks
 

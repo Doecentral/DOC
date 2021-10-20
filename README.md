@@ -15,5 +15,5 @@ This allows you to integrate your today tasks in your favorite application, a ro
 Check all available [connections](public/connections.md) and [integrations](public/integrations.md).
 
 {% hint style="info" %}
-This special character looks like spam.&#x20;
+Even if the special character in the domain looks like spam it‘s intended, trust me.
 {% endhint %}
