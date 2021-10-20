@@ -1,7 +1,5 @@
 # Intro
 
-![](.gitbook/assets/oe.svg)
-
 ## One Endpoint. All your tasks.
 
 **With dœcentral `[døːsɛntrəl]` you're able to fetch all your tasks from several task management apps and calendars. Learn more at **[**dœcentral.com**](https://www.xn--dcentral-ktb.com)**.**

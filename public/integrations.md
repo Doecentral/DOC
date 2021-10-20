@@ -8,13 +8,27 @@ coverY: -21.512605042016805
 # 📱 Integrations
 
 {% hint style="info" %}
-This page explains how to fetch all avaiable integrations by API.
+This page explains how to fetch all avaiable integrations by API. You'll also find all available integrations on our [website](https://www.xn--dcentral-ktb.com).&#x20;
 {% endhint %}
 
-{% swagger method="get" path="Integrations" baseUrl="" summary="" %}
-{% swagger-description %}
+### Get all integrations
 
+{% swagger method="get" path="/public/integrations" baseUrl="https://api.dœcentral.com" summary="" %}
+{% swagger-description %}
+Get all apps and services using the dœcentral API. An authorization is not needed for this endpoint.
 {% endswagger-description %}
+
+{% swagger-parameter in="query" name="prettyprint" type="boolean" %}
+
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="" %}
+```javascript
+{
+    // Response
+}
+```
+{% endswagger-response %}
 {% endswagger %}
 
 

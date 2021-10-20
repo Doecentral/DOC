@@ -6,3 +6,9 @@ coverY: 0
 
 # 🔐 Authorization
 
+```http
+// Basic request with authorization
+GET /tasks/today?prettyprint=true
+Authorization: Bearer <YOUR_API_KEY>
+Accept: application/json
+```
