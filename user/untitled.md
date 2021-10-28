@@ -1,5 +1,5 @@
 ---
-description: Get the settings for a user
+description: Get and set the settings
 ---
 
 # ⚙ User settings

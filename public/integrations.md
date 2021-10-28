@@ -13,7 +13,7 @@ This page explains how to fetch all avaiable integrations by API. You'll also fi
 
 ### Get all integrations
 
-{% swagger method="get" path="/public/integrations" baseUrl="https://api.dœcentral.com" summary="" %}
+{% swagger method="get" path="/public/integrations" baseUrl="https://api.dœcentral.com" summary="Get all available apps using the dœcentral API" %}
 {% swagger-description %}
 Get all apps and services using the dœcentral API. An authorization is not needed for this endpoint.
 {% endswagger-description %}
@@ -33,6 +33,4 @@ Get all apps and services using the dœcentral API. An authorization is not need
 
 
 
-
-
-_Do you want to integrate dœcentral in your app? Please _[_get in touch_](https://www.polywork.com/hvb)_._
+_Is your listing missing or do you want to integrate dœcentral in your app? Please _[_get in touch_](https://www.polywork.com/hvb)_._

@@ -12,7 +12,7 @@
 ## Tasks
 
 * [✅ Today](tasks/today.md)
-* [✅ Tomorrow](tasks/tomorrow.md)
+* [☑ Tomorrow](tasks/tomorrow.md)
 
 ## User
 

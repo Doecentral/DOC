@@ -6,6 +6,8 @@ coverY: 0
 
 # 🔐 Authorization
 
+To ... API key
+
 ```http
 // Basic request with authorization
 GET /tasks/today?prettyprint=true

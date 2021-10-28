@@ -1,10 +1,10 @@
+---
+description: Frequently asked and answered questions
+---
+
 # FAQ
 
-## Can I become who I want to be?
+## Is there any other way to use the API than by using the dœcentral.com domain?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+I feel you. The punicode domains still feel strange and make you still afraid that at one or the other system involved cannot handle it. While working on this project However, if you want to be a 100% save, you also can use the domain `doecentral.com` or `xn--dcentral-ktb.com` for all requests.
 

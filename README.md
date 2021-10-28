@@ -1,5 +1,9 @@
 # Intro
 
+{% hint style="warning" %}
+The documentation is still very rough. The documentation is still very rudimentary and far from final. Further content is being worked on regularly. For specific questions that are not answered here, please visit the [discussion forum](https://github.com/Doecentral/DOC/discussions).
+{% endhint %}
+
 ## One Endpoint. All your tasks.
 
 **With dœcentral `[døːsɛntrəl]` you're able to fetch all your tasks from several task management apps and calendars. Learn more at **[**dœcentral.com**](https://www.xn--dcentral-ktb.com)**.**
