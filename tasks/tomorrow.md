@@ -2,7 +2,7 @@
 description: Get all the tasks for tomorrow
 ---
 
-# ✅ Tomorrow
+# ☑ Tomorrow
 
 {% swagger baseUrl="https://api.dœcentral.com" path="/tasks/tomorrow" method="get" summary="Tomorrow" %}
 {% swagger-description %}

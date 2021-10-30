@@ -1,4 +1,4 @@
-# Getting started
+# ⭐ Getting started
 
 * [ ] Register at app.dœcentral.com
 * [ ] Create a new API key for [authorization](broken-reference)
