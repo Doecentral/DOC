@@ -1,7 +1,7 @@
 # 👋 Intro
 
 {% hint style="warning" %}
-The documentation is still very rough. The documentation is still very rudimentary and far from final. Further content is being worked on regularly. For specific questions that are not answered here, please visit the [discussion forum](https://github.com/Doecentral/DOC/discussions).
+The documentation is still very rudimentary and far from final. Further content is being worked on regularly. For specific questions that are not answered here, please visit the [discussion forum](https://github.com/Doecentral/DOC/discussions).
 {% endhint %}
 
 ## One Endpoint. All your tasks.
@@ -14,8 +14,8 @@ This allows you to integrate your today tasks in your favorite application, a ro
 
 > Everything you can imagine is possible. Be creative!
 
-Check all available [connections](public/connections.md) and [integrations](public/integrations.md).
+You'll find all available connections and integrations on the [website](https://www.xn--dcentral-ktb.com) or with the [public endpoints](broken-reference) in this API.&#x20;
 
 {% hint style="info" %}
-Even if the special character in the domain looks like spam it‘s intended, trust me.
+Even if the special character in the domain looks like spam it‘s intended, trust me. If you like to learn more, please [check out the FAQ](faq.md).
 {% endhint %}

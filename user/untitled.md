@@ -14,6 +14,14 @@ In order to get the right tasks, most of the connections need a configuration. T
 {% swagger-parameter in="query" name="prettyprint" type="boolean" %}
 
 {% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="" %}
+```javascript
+{
+    // Response
+}
+```
+{% endswagger-response %}
 {% endswagger %}
 
 ### Options of settings
