@@ -1,7 +1,7 @@
 # 👋 Intro
 
 {% hint style="warning" %}
-The documentation is still very rudimentary and far from final. Further content is being worked on regularly. For specific questions that are not answered here, please visit the [discussion forum](https://github.com/Doecentral/DOC/discussions).
+The documentation is still very rough. The documentation is still very rudimentary and far from final. Further content is being worked on regularly. For specific questions that are not answered here, please visit the [discussion forum](https://github.com/Doecentral/DOC/discussions).
 {% endhint %}
 
 ## One Endpoint. All your tasks.
